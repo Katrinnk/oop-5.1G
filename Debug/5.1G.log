@@ -1,0 +1,17 @@
+﻿  BadExeption.cpp
+  Number.cpp
+Z:\university\ооп\програми\5.1G\Number.h(24,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1G\Number.cpp(16,1): warning C5043: "operator >>": спецификация исключения не соответствует предыдущему объявлению
+Z:\university\ооп\програми\5.1G\Number.h(24): message : см. объявление "operator >>"
+  Object.cpp
+  Real.cpp
+Z:\university\ооп\програми\5.1G\Number.h(24,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1G\Real.h(28,80): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1G\Real.cpp(22,1): warning C5043: "operator >>": спецификация исключения не соответствует предыдущему объявлению
+Z:\university\ооп\програми\5.1G\Real.h(28): message : см. объявление "operator >>"
+  Source.cpp
+Z:\university\ооп\програми\5.1G\Number.h(24,88): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1G\Real.h(28,80): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1G\Source.cpp(36,7): warning C4101: result2: неиспользованная локальная переменная
+  Создание кода...
+  5.1G.vcxproj -> Z:\university\ооп\програми\5.1G\Debug\5.1G.exe
